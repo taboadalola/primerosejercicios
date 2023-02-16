@@ -1,0 +1,93 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section#uno {
+    background-color: aquamarine;
+    border-style: dashed;
+    border-color: yellowgreen;
+}
+
+section#dos {
+    background-color: pink;
+    border-style:dashed;
+    border-color: orange;
+}
+section#tres {
+    background-color: yellowgreen;
+    border-style: dashed;
+    border-color: pink;
+}
+
+section#musica {
+    background-color:  orange;
+    border-style: dashed;
+    border-color: aquamarine;
+}
+
+
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+
+li {
+    margin-left: 2cm;
+    margin-right: 2cm;
+    font-size: medium;
+    background-color: pink;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px 20px;
+}
+
+
+header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    top: 0;
+    background-color: grey;
+
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+
+h4 {
+    color: white;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+li:hover{
+    color: blueviolet;
+    text-decoration:none blueviolet none;
+    background-color: black;
+} 
+
+img {
+    justify-content: right;
+    height: 300px;
+    width: 300;
+    margin-left: 25cm;
+    position: relative;
+    
+}
+
+iframe {
+    margin-left: 20cm;
+    position: relative;
+
+}
+

@@ -1,0 +1,35 @@
+section {
+    background-color: pink;
+    box-shadow: 10px 10px 10px ;
+    width: fit-content;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+label {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+input {
+    border-color: darkkhaki;
+    border-style:groove;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+button {
+    background-color: darkkhaki;
+    margin-left: 3.6cm;
+    margin-top: 3px;
+    font-size: larger;
+}
+
+li {
+    color: red
+}
